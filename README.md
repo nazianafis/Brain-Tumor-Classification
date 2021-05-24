@@ -17,6 +17,9 @@ The Project builds a model that is trained on images of Brain MRI Scans, which i
 
 ### Requirements
 
+The code requires Python3 installed in your local system. For installation instructions, refer to the [official](https://python.org/downloads) site.
+
+### Usage 
 
 
 ---
