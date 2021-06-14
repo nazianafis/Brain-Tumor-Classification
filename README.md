@@ -11,7 +11,7 @@ Brain tumors account for 85% to 90% of all primary central nervous system tumors
 
 ## Installation <a name="installation"></a>
 
-* The complete dataset is publicly available. You can also find it in mhy GitHub repo [here](https://github.com/nazianafis/Brain-Tumor-Classification/tree/main/Brain-MRI).
+* The complete dataset is publicly available. You can also find it in my GitHub repo [here](https://github.com/nazianafis/Brain-Tumor-Classification/tree/main/Brain-MRI).
 * The code can be run in [Google Colab](https://colab.research.google.com/drive/1bpq58g2gohNRtpJlole5JGCU9w0yY8pu) as an Interactive Python Notebook (ipynb). No additional installation is required.
 
 ## Project Motivation<a name="motivation"></a>
