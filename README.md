@@ -1,5 +1,3 @@
----
-
 # Brain-Tumor-Classification
 
 ---
@@ -14,3 +12,32 @@ The Project builds a model that is trained on images of Brain MRI Scans, which i
 > **Gliomas:** These are the tumors that occur in the brain and/or spinal cord. Types of glioma include: Astrocytomas, Ependymomas, and Oligodendrogliomas. Gliomas are one of the most common types of primary brain tumors. 
 > **Meningiomas:** These are the tumors that arise from the Meninges — the membranes that surround the brain and spinal cord. Most meningiomas grow very slowly, often over many years without causing symptoms. 
 > **Pituitary tumors:** These are the tumors that form in the Pituitary — a small gland inside the skull. Most pituitary tumors are often pituitary adenomas, benign growths that do not spread beyond the skull.
+
+---
+
+### Table of Contents
+
+1. [Installation](#installation)
+2. [Project Motivation](#motivation)
+3. [Results](#results)
+4. [Licensing](#licensing)
+
+## Installation <a name="installation"></a>
+
+* The complete dataset is publicly available. You can also find it [here](https://github.com/nazianafis/Brain-Tumor-Classification/tree/main/Brain-MRI).
+* The code can be run in [Google Colab](https://colab.research.google.com/drive/1bpq58g2gohNRtpJlole5JGCU9w0yY8pu) as an Interactive Python Notebook (ipynb). No additional installation is required.
+
+## Project Motivation<a name="motivation"></a>
+
+
+![]()
+
+
+## Results<a name="results"></a>
+
+![]()
+
+## Licensing<a name="licensing"></a>
+
+The dataset is available under the Open Database License [ODbL](http://opendatacommons.org/licenses/odbl/1.0/).
+Any rights in individual contents of the database are licensed under the [Database Contents License](http://opendatacommons.org/licenses/dbcl/1.0/).
