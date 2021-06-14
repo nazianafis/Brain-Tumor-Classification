@@ -1,6 +1,6 @@
 ---
 
-# Brain-MRI-Classification
+# Brain-Tumor-Classification
 
 ---
 
