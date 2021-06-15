@@ -41,17 +41,17 @@ The Project builds a model that is trained on images of Brain MRI Scans, which i
 > **Meningiomas:** These are the tumors that arise from the Meninges — the membranes that surround the brain and spinal cord. Most meningiomas grow very slowly, often over many years without causing symptoms. 
 > **Pituitary tumors:** These are the tumors that form in the Pituitary — a small gland inside the skull. Most pituitary tumors are often pituitary adenomas, benign growths that do not spread beyond the skull.
 
-![dataset](https://github.com/nazianafis/Brain-Tumor-Classification/blob/main/MRI-images/dataset.png)
+![dataset](https://github.com/nazianafis/Brain-Tumor-Classification/blob/main/screenshots/dataset.png)
 
 I cropped and augmented the images before building, compiling, training, and evaluating the model.
 
-![crop](https://github.com/nazianafis/Brain-Tumor-Classification/blob/main/MRI-images/crop-img.png)
+![crop](https://github.com/nazianafis/Brain-Tumor-Classification/blob/main/screenshots/crop-img.png)
 
 ## Results<a name="results"></a>
 
 In the end, I could validate a test image passed through the model.
 
-![validation](https://github.com/nazianafis/Brain-Tumor-Classification/blob/main/MRI-images/valid-img.png)
+![validation](https://github.com/nazianafis/Brain-Tumor-Classification/blob/main/screenshots/valid-img.png)
 
 ## Author<a name="author"></a>
 * [Nazia N.](https://github.com/nazianafis)
