@@ -8,6 +8,7 @@ Brain tumors account for 85% to 90% of all primary central nervous system tumors
 2. [Project Motivation](#motivation)
 3. [Results](#results)
 4. [Licensing](#licensing)
+5. [Acknowledgements](#ack)
 
 ## Installation <a name="installation"></a>
 
@@ -43,3 +44,6 @@ In the end, I could validate a test image passed through the model.
 
 The dataset is available under the Open Database License [ODbL](http://opendatacommons.org/licenses/odbl/1.0/).
 Any rights in individual contents of the database are licensed under the [Database Contents License](http://opendatacommons.org/licenses/dbcl/1.0/).
+
+## Acknowledgements<a name="ack"></a>
+Thanks to [Ashish](https://github.com/Ashish-Arya-CS) for his Guided Project on Coursera.
