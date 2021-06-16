@@ -19,7 +19,7 @@ Brain tumors account for 85% to 90% of all primary central nervous system tumors
 
 ### Dependencies <a name="dependencies"></a>
 * Python 3.*
-* Libraries: Pandas, Seaborn, Matplotlib
+* Libraries: NumPy, Pandas, Seaborn, Matplotlib, cv2, Keras, tqdm
 * Google Colaboratory
 
 ### Installation <a name="installation"></a>
@@ -62,4 +62,4 @@ In the end, I could validate a test image passed through the model.
 * Any rights in individual contents of the database are licensed under the [Database Contents License](http://opendatacommons.org/licenses/dbcl/1.0/).
 
 ## Acknowledgements<a name="ack"></a>
-Thanks to [Ashish](https://github.com/Ashish-Arya-CS) for guiding me through the project.
+Thanks to [Ashish](https://github.com/Ashish-Arya-CS) for his guidance throughout the project.
